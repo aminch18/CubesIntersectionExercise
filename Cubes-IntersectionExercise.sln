@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cubes-IntersectionExercise.Tests", "Cubes-IntersectionExercise.Tests\Cubes-IntersectionExercise.Tests.csproj", "{FA28CA9A-4C60-458C-8931-538C0789DBE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cubes-IntersectionExercise", "Cubes-IntersectionExercise\Cubes-IntersectionExercise.csproj", "{F45BF391-EA42-4EC6-990D-AE616A0CF05A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA28CA9A-4C60-458C-8931-538C0789DBE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA28CA9A-4C60-458C-8931-538C0789DBE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA28CA9A-4C60-458C-8931-538C0789DBE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA28CA9A-4C60-458C-8931-538C0789DBE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F45BF391-EA42-4EC6-990D-AE616A0CF05A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F45BF391-EA42-4EC6-990D-AE616A0CF05A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F45BF391-EA42-4EC6-990D-AE616A0CF05A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F45BF391-EA42-4EC6-990D-AE616A0CF05A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8346DE64-7C6E-40BA-B9DD-3F4AB3F0C708}
+	EndGlobalSection
+EndGlobal
